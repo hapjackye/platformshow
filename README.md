@@ -20,4 +20,4 @@
 用于记录系统用户进入系统后的操作过程，采用服务端分页方式提高响应速度，并配有单独的数据库以便后续进行扩展<br>
 图1：基于用户的操作痕迹<br>
 ![image](https://github.com/hapjackye/platformshow/blob/master/Image/007.png)<br>
-## 2.1 业务功能
+## 2.1 业务功能(待续)
