@@ -27,4 +27,5 @@
 ### 2.1 主页
 本来想弄个框架就好，但实在看不下去，简单的修饰了一番（鄙人前端不强，又非美工出身，觉得丑的请勿喷^_^），做了些简单的数据图形呈现，算是抛砖引玉吧，后续可以根据实际业务场景使用现代金属风格来美化，图形插件用的是echarts，尚有些bug,后续再寻觅更好的插件，地图可以换成第三方的，比如百度。
 ![image](https://github.com/hapjackye/platformshow/blob/master/Image/008.png)<br>
-
+现代风样式参考：
+![image](https://github.com/hapjackye/platformshow/blob/master/Image/009.jpg)<br>
