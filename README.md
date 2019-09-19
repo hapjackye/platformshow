@@ -51,8 +51,8 @@
 ![image](https://github.com/hapjackye/platformshow/blob/master/Image/017.png)<br>
 ![image](https://github.com/hapjackye/platformshow/blob/master/Image/018.png)<br>
 
-### 2.3 工单管理（待续）
-2.3.1 工单申请
+### 2.3 工单管理
+2.3.1 工单流转
 工单的意义大家都知道就不细说了，这里用简单的方式构建一套工单进行流转演示，不同权限的角色负责工单中各个环节，这里由具备申请权限的人员（这里是管理员，也可以把权限赋给其他开单人员）进行开单，由具备审核权限的人员进行审核，由具备执行权限的人员进行对应的执行和结果反馈工作，最终由开单人员来验证执行结果。
 整个流转过程截图如下：
 ![image](https://github.com/hapjackye/platformshow/blob/master/Image/019.png)<br>
@@ -62,3 +62,7 @@
 ![image](https://github.com/hapjackye/platformshow/blob/master/Image/023.png)<br>
 ![image](https://github.com/hapjackye/platformshow/blob/master/Image/024.png)<br>
 ![image](https://github.com/hapjackye/platformshow/blob/master/Image/025.png)<br>
+
+### 2.4 我的工作台
+我的工作台一般放比较重要的数据展示或者入口，可以非常简洁，也可以非常多元化，这里仅以工单统计数据可视化来抛砖引玉。
+![image](https://github.com/hapjackye/platformshow/blob/master/Image/026.png)<br>
