@@ -66,3 +66,6 @@
 ### 2.4 我的工作台
 我的工作台一般放比较重要的数据展示或者入口，可以非常简洁，也可以非常多元化，这里仅以工单统计数据可视化来抛砖引玉。
 ![image](https://github.com/hapjackye/platformshow/blob/master/Image/026.png)<br>
+
+# 平台衍生
+第一个衍生物 https://github.com/hapjackye/platformck<br>
